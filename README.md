@@ -1,4 +1,6 @@
-![kawano108's github stats](https://github-readme-stats.vercel.app/api?username=kawano108)
+## Profile
+![kawano108's github stats](https://github-readme-stats.vercel.app/api?username=kawano108) ![kawano108's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kawano108)
+
 
 
 <!--
