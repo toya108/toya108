@@ -1,5 +1,5 @@
 ## Profile
-![toya108's github stats](https://github-readme-stats.vercel.app/api?username=kawano108) ![toya08's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kawano108)
+![toya108's github stats](https://github-readme-stats.vercel.app/api?username=toya108) ![toya108's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=toya108)
 
 
 
